@@ -1,5 +1,5 @@
 {
-	"name": "@rbxts/rbxts-fast-replica",
+	"name": "@rbxts/rbxts-mutable-fast-replica",
 	"version": "1.0.0",
 	"description": "A (mutable) simple and intuitive package for sharing data from server to client.",
 	"main": "src/init.lua",
