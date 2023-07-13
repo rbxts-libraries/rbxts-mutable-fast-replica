@@ -11,19 +11,19 @@ This is preferable with `@rbxts/replica-service` if you are looking for fully pr
 ### 📦 — NPM:
 
 ```
-npm i @rbxts/mutable-fast-replica -D
+npm i @rbxts/mutable-fast-replica
 ```
 
 ### 🧶 — Yarn:
 
 ```
-yarn add @rbxts/mutable-fast-replica -D
+yarn add @rbxts/mutable-fast-replica
 ```
 
 ### 📀 — pnPM:
 
 ```
-pnpm add @rbxts/mutable-fast-replica -D
+pnpm add @rbxts/mutable-fast-replica
 ```
 
 ## API:
