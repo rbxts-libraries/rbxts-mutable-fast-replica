@@ -4,7 +4,27 @@ This is a fork of [@rbxts/fast-replica](https://www.npmjs.com/package/@rbxts/fas
 
 A simple and intuitive package for sharing data from server to client. Structured in a similar manner to `@flamework/networking`.
 
-This is preferable to `@rbxts/replica-service` if you are looking for fully pre-defined replicas that will be automatically initialized before use.
+This is preferable with `@rbxts/replica-service` if you are looking for fully pre-defined replicas that will be automatically initialized before use.
+
+## Installation
+
+### 📦 — NPM:
+
+```
+npm i @rbxts/mutable-fast-replica -D
+```
+
+### 🧶 — Yarn:
+
+```
+yarn add @rbxts/mutable-fast-replica -D
+```
+
+### 📀 — pnPM:
+
+```
+pnpm add @rbxts/mutable-fast-replica -D
+```
 
 ## API:
 
